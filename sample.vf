@@ -10,6 +10,3 @@ Create Table Opportunity
 [Opportunity Record Type]            varchar(80)     NULL, 
 [Contract Number]                    varchar(20)     NULL, 
 [Opportunity Name]                   varchar(120)    NULL, 
-[Opportunity Owner]                  varchar(80)     NULL, 
-[Account Executive]                  varchar(80)     NULL, 
-[Opp Sales Agent]                    varchar(80)     NULL, 
