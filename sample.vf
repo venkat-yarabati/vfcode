@@ -1,0 +1,15 @@
+
+
+Create Table Opportunity 
+( 
+[Lead ID]                            varchar(20)     NULL, 
+[Account ID]                         varchar(20)     NULL, 
+[Opportunity ID]                     varchar(20)     NULL, 
+[Related Contract]                   varchar(20)     NULL, 
+[Deal Type]                          varchar(80)     NULL, 
+[Opportunity Record Type]            varchar(80)     NULL, 
+[Contract Number]                    varchar(20)     NULL, 
+[Opportunity Name]                   varchar(120)    NULL, 
+[Opportunity Owner]                  varchar(80)     NULL, 
+[Account Executive]                  varchar(80)     NULL, 
+[Opp Sales Agent]                    varchar(80)     NULL, 
